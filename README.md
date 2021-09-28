@@ -7,13 +7,13 @@
   <h3 align="center">Chloroplot</h3>
 
   <p align="center">
-    Tidy drug combination high-throughput screening data for DrugComb portal
+    High resolution plottiong tool for micro detection of the molecular structure of the organelle genomes 
     <br />
     <a href="https://irscope.shinyapps.io/chloroplot/">Web Application</a>
     <br />
-    <a href="https://github.com/shuyuzheng/Chloroplot/issues">Report Bug</a>
+    <a href="https://github.com/amiryousefilab/Chloroplot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shuyuzheng/Chloroplot/issues">Request Feature</a>
+    <a href="https://github.com/amiryousefilab/Chloroplot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,6 +35,8 @@
 
 The R package **Chloroplot** wrapped the functions for visualizing the organelle genomes.
 We also provide a web application at [https://irscope.shinyapps.io/chloroplot/](https://irscope.shinyapps.io/chloroplot/) for users who prefere interactive GUI.
+
+The .R files above contain the main functions. 
 
 ### Built with
 
