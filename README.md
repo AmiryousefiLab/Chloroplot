@@ -106,10 +106,9 @@ Distributed under the Mozilla Public License 2.0
 
 ## Contact
 
-Shuyu Zheng - shuyu.zheng@helsinki.fi
 ali.amiryousefi@helsinki.fi - Ali Amiryousefi
 
-Project Link: https://github.com/shuyuzheng/Chloroplot
+Project Link: https://github.com/amiryousefilab/Chloroplot
 
 ## Acknowledgements
 * [Img Shields](https://shields.io)
