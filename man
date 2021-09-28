@@ -1,1 +1,0 @@
-The internal functions of the program
